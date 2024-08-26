@@ -1,0 +1,1 @@
+const returnFormatedNumber = (number) => number.toLocaleString();
